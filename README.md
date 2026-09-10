@@ -4,7 +4,7 @@
 
 - I build end-to-end ML systems spanning multimodal data processing, model development, uncertainty-aware evaluation, real-time optimization, and on-device deployment. My recent work achieved **92.1% accuracy / 0.897 F1** for wearable cough detection and **<80 ms latency / >90% accuracy** for a real-time multimodal vision system optimized with TensorRT and CUDA.
 
-  - My recent research includes **two papers accepted at IEEE EMBC 2026** and work published in **IEEE Journal of AI Medicine**.
+- My recent research includes **two papers accepted at IEEE EMBC 2026** and work published in **IEEE Journal of AI Medicine**.
 
 - I received my M.S. in Data Science from **Johns Hopkins University** and my B.S. in Statistics from **Central University of Finance and Economics**.
 
